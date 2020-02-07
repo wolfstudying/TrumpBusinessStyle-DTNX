@@ -1,2 +1,2 @@
 # TrumpBusinessStyle-DTNX
-make world always peaceful
+make world always peace
